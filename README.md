@@ -11,6 +11,11 @@ Here is a list of apps that are working and not working under LineageOS for micr
 |    Name of App    |  Version  | State | Notes |
   ----------------- | --------- | ----- | -----
 [Lawnchair](#lawnchair) | v1.1.01742 | Working |
+## Messaging
+|    Name of App    |  Version  | State | Notes |
+  ----------------- | --------- | ----- | -----
+[Google Hangouts](#google-hangouts) | v24.0.182154523 | Not Working | App force closes
+[Telegram](#telegram) | v4.6.0a | Working |
 
 
 ---
