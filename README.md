@@ -8,18 +8,18 @@ Here is a list of apps that are working and not working under LineageOS for micr
 
 # Table of Contents
 ## Email
-|    Name of App    |  Version  | State | Notes |
-  ----------------- | --------- | ----- | -----
+    Name of App    |  Version  | State | Notes 
+ ----------------- | --------- | ----- | -----
 [Gmail](#gmail) | v8.1.28.185234908.release | Buggy | Doesn't work with Gmail account but can work fine with non-Gmail addresses (Outlook.com, Yahoo Mail, or any other IMAP/POP email). As an alternative use AOSP email app or K9 mail.
 ## Launchers
-|    Name of App    |  Version  | State | Notes |
-  ----------------- | --------- | ----- | -----
-[Lawnchair](#lawnchair) | v1.1.01742 | Working |
+    Name of App    |  Version  | State | Notes 
+ ----------------- | --------- | ----- | -----
+[Lawnchair](#lawnchair) | v1.1.01742 | Working 
 ## Messaging
-|    Name of App    |  Version  | State | Notes |
-  ----------------- | --------- | ----- | -----
+    Name of App    |  Version  | State | Notes 
+ ----------------- | --------- | ----- | -----
 [Google Hangouts](#google-hangouts) | v24.0.182154523 | Not Working | App force closes
-[Telegram](#telegram) | v4.6.0a | Working |
+[Telegram](#telegram) | v4.6.0a | Working 
 
 
 ---
