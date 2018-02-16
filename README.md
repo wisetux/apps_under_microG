@@ -7,6 +7,10 @@ Here is a list of apps that are working and not working under LineageOS for micr
 > Model: E1003  
 
 # Table of Contents
+## Email
+|    Name of App    |  Version  | State | Notes |
+  ----------------- | --------- | ----- | -----
+[Gmail](#gmail) | v8.1.28.185234908.release | Buggy | Doesn't work with Gmail account but can work fine with non-Gmail addresses (Outlook.com, Yahoo Mail, or any other IMAP/POP email). As an alternative use AOSP email app or K9 mail.
 ## Launchers
 |    Name of App    |  Version  | State | Notes |
   ----------------- | --------- | ----- | -----
@@ -19,6 +23,11 @@ Here is a list of apps that are working and not working under LineageOS for micr
 
 
 ---
+## Email
+### Gmail
+<img align="right" width="80" height="80" src="/icons/gmail.png">[Gmail](https://gmail.com) is an easy to use email app that saves you time and keeps your messages safe. Get your messages instantly via push notifications, read and respond online & offline, and find any message quickly. Gmail also supports both Gmail and non-Gmail addresses (Outlook.com, Yahoo Mail, or any other IMAP/POP email) right from the app.  
+[Google Play](https://play.google.com/store/apps/details?id=com.google.android.gm&hl=en)
+
 ## Launchers
 ### Lawnchair
 <img align="right" width="80" height="80" src="/icons/lawnchair.png">[Lawnchair](https://lawnchair.info), bringing Pixel Features to the masses. An open-source project developed by volunteers, Lawnchair has quickly become the de-facto choice for Android enthusiasts everywhere. New features are being added regularly... with the promise that Lawnchair will always be FREE and open-source.  
