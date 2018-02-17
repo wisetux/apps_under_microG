@@ -6,6 +6,8 @@ Here is a list of apps that are working and not working under LineageOS for micr
 > Device: Oneplus X (Onyx)  
 > Model: E1003  
 
+> **Note:** Chromecast API v2 isn't implemented in microG. So unless specified no app listed below can work with Chromecast.
+
 # Table of Contents
 ## Communication
 |    Name of App    |  Version  | State | Notes |
@@ -62,12 +64,12 @@ Here is a list of apps that are working and not working under LineageOS for micr
 |    Name of App    |  Version  | State | Notes |
   ----------------- | --------- | ----- | -----
 [Facetune](#facetune) | v1.1.4 | Working
-[Google Photos](#google-photos) | v3.14.0.185628364 | Everything works except showing "shared library" from "partner account".
+[Google Photos](#google-photos) | v3.14.0.185628364 | Buggy | Everything works except showing "shared library" from "partner account".
 
 ## Productivity
 |    Name of App    |  Version  | State | Notes |
   ----------------- | --------- | ----- | -----
-[ACR](#acr) | v27.5 | Working | 
+[ACR](#acr) | v27.5 | Working
 [ACR Pro License](#acr-pro-license) | v10.0 | Not Working | Reports that the apps isn't installed from PlayStore and so must be reinstalled from there.
 [DAVdroid](#davdroid) | v1.10.1.1-ose | Working | Even syncs Google Contacts along with pictures and other info. But only primary calendar is synced.
 [Enpass](#enpass) | v5.6.4 | Working | But needs "Google Device Registration" enabled in microG settings to authenticate full version.
